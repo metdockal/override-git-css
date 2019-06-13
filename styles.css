@@ -1,0 +1,6 @@
+.gr__github_com .tab-size[data-tab-size="8"] {
+        -moz-tab-size: 4 !important;
+        -webkit-tab-size: 4 !important;
+        -o-tab-size: 4 !important;
+        tab-size: 4 !important;
+}
